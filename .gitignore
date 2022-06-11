@@ -1,0 +1,16 @@
+node_modules
+.DS_Store
+.cache
+.env
+.vercel
+.output
+
+/app/styles/app.css
+/app/assets
+
+/build/
+/public/build
+/api/index.js
+/api/index.js.map
+
+AuthKey.p8
