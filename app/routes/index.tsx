@@ -13,7 +13,6 @@ import lightningIconUrl from "~/assets/cloud-lightning.svg";
 import moonIconUrl from "~/assets/cloud-moon.svg";
 import rainIconUrl from "~/assets/cloud-rain.svg";
 import partlySunnyIconUrl from "~/assets/cloud-sun.svg";
-// import f from '~/assets/moon-stars.svg';
 import snowflakeIconUrl from "~/assets/snowflake.svg";
 import sunIconUrl from "~/assets/sun.svg";
 import cloudyIconUrl from "~/assets/cloud.svg";

@@ -5,12 +5,12 @@ node_modules
 .vercel
 .output
 
-/app/styles/app.css
-/app/assets
-
 /build/
 /public/build
 /api/index.js
 /api/index.js.map
 
+/app/styles/app.css
+/app/assets
+app/types/weatherkit.ts
 AuthKey.p8
